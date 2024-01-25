@@ -1,0 +1,5 @@
+If you want to store your classwork in the github.
+Do your adding & committing on your own branch (mine is called natalie-classwork)
+then, just merge to the main branch and push at the end of class.
+Hope it's helpful.
+- Natalie
